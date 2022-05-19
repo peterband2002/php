@@ -1,7 +1,6 @@
 <?php
-
 echo "Olá mundo dos fortes";
 
-echo "Sou demais!";
+echo "Sou demais e também lindo!";
 
 ?>
