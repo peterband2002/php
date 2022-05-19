@@ -11,4 +11,29 @@ echo $nomeCompl . "<br>";
 
 exit;
 
+$nome = "Pedro";
+$site = 'www.pedimperigoso.com.br';
+$ano = 2002;
+$salario = 1450.50;
+$bloqueado = false;
+
+///////////////////////////////////////////////
+
+$frutas = array("abacate", "mamão", "morango");
+
+//echo $frutas[2];
+
+$nascimento = new DateTime();
+
+//var_dump($nascimento);
+
+///////////////////////////////////////////////
+
+$arquivo = fopen("exemplo-03.php", "r");
+
+//var_dump($arquivo);
+
+$nulo = null;
+$vazio = "";
+
 ?>
