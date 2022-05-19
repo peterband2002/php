@@ -1,3 +1,7 @@
 <?php
 
-echo "Olá mundo!";
+echo "Olá mundo dos fracos!";
+
+echo "Olá Pedim!";
+
+?>
